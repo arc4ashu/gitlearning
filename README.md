@@ -4,4 +4,5 @@
   <li> 2. git add fileName|.</li>
   <li> 3. git status</li>
   <li> 4. git commit -m message </li>
+  <li> 5. git commit -m message </li>
 </ol>
